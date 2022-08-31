@@ -1,7 +1,7 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#define MIRYOKU_ALTERNATIVES_BASE_COLEMAKDH \
+#define MIRYOKU_LAYER_BASE \
 U_NP,       &kp Q,             &kp W,             &kp F,             &kp P,             &kp B,             &kp J,             &kp L,             &kp U,             &kp Y,             &kp SQT,             U_NP,\
 U_NP,       &hm LCTRL A,       &hm LALT R,        &hm LGUI S,        &hm LSHFT T,       &kp G,             &kp M,             &hm LSHFT N,       &hm LGUI E,        &hm LALT I,        &hm LCTRL O,         U_NP,\
 U_NP,       &lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp D,             &kp V,             &kp K,             &kp H,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,  U_NP,\
